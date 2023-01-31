@@ -1,0 +1,112 @@
+body{
+	background-color: #fff;
+}
+
+div{
+	background-color: white;
+	border: 6px solid black;
+	padding: 10px;
+	width: 60%;
+	margin: 0px auto;
+}
+
+div.box1{
+	background-color: #25B4A2;
+	width: 27%;
+	float: left;
+	height: 870px;
+	border: 4px solid black;
+	border-radius: 3px;
+}
+
+.perfil{
+	padding-left: 35px;  
+	block-size: 260px;
+	inline-size: 230px;
+}
+h1{
+	padding-top: 2px;
+	margin-top: 10px;
+	font-size: 170%;
+}
+
+p{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.bot{
+	background-color: #FFB366;
+	color: black;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+
+.icono{
+	block-size: 50px;
+	padding-bottom: 6px;
+}
+
+.icono2{
+	block-size: 50px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.icono3{
+	block-size: 50px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+h4{
+	margin-top: 20%;
+	font-family: georgia, serif;;
+}
+
+span{
+	font-weight: bold;
+	font-size: 110%;
+}
+
+fieldset.contacto{
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 2px;
+	padding-bottom: 5px;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+fieldset.exp{
+	margin-left: 30%;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+fieldset.form{
+	margin-left: 30%;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+fieldset.competencia{
+	margin-left: 30%;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+legend{
+	background-color: #FFB366;
+	padding: 5px;
+	margin-top: 15px;
+	border-radius: 20px;
+	font-weight: bold;
+	font-family: georgia, serif;
+	font-size: 130%;
+}
